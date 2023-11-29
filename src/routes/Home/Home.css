@@ -1,0 +1,24 @@
+.electroninc-item-container,
+.skin-item-container,
+.food-item-container {
+  margin-top: 20px;
+}
+
+/* Product item styling */
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+/* Delete button styling */
+button {
+  background-color: #eb1313;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
